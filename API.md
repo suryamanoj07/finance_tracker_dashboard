@@ -2,7 +2,7 @@
 
 Base URL (local): `http://localhost:8080`
 
-Swagger UI: `http://localhost:8080/api-docs`
+Swagger UI: ` https://finance-tracker-dashboard-1.onrender.com/#/Records/get_api_records`
 
 This backend uses **JWT Bearer tokens** for auth. After login, send:
 
