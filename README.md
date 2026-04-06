@@ -1,5 +1,8 @@
 # Finance Dashboard (MERN) – Backend Assignment
 
+Website LIVE : https://finance-tracker-dashboard-43tf.vercel.app/
+Swagger API documentation : https://finance-tracker-dashboard-1.onrender.com/#/Records/get_api_records
+
 This is my submission for the **Finance Data Processing and Access Control Backend** assignment.
 
 I built a small finance dashboard where users have different permissions based on role:
