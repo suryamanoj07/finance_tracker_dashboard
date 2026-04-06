@@ -2,7 +2,7 @@
 
 Website LIVE : https://finance-tracker-dashboard-43tf.vercel.app/
 
-Swagger API documentation : https://finance-tracker-dashboard-1.onrender.com/#/Records/get_api_records
+Swagger API documentation : https://finance-tracker-dashboard-1.onrender.com/#/
 
 This is my submission for the **Finance Data Processing and Access Control Backend** assignment.
 
