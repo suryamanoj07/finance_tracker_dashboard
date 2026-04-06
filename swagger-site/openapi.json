@@ -1,1 +1,20 @@
-
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Finance API",
+    "version": "1.0.0"
+  },
+  "servers": [
+    { "url": "https://finance-tracker-dashboard-fjhp.onrender.com" }
+  ],
+  "paths": {
+    "/health": {
+      "get": {
+        "summary": "Health check",
+        "responses": {
+          "200": { "description": "OK" }
+        }
+      }
+    }
+  }
+}
